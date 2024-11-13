@@ -1,6 +1,6 @@
 # MHS: The Game 2024
 
-** MHS: The Game 2024 aims to parody the academic infatuation of a Melbourne High student. **
+### MHS: The Game 2024 aims to parody the academic infatuation of a Melbourne High student.
 
 
 Inspired by dollhouse horror games such as Little Nightmares and Ori and the Blind Forest, as well as TV and movies such as Stranger Things and Detention, the 2.5D story-based experience tells a metaphor for how overt fixation on academic success has engulfed the lives of MHS students.
@@ -11,6 +11,6 @@ The game is not intended to be a sequel, but rather a spiritual successor to MHS
 
 Contact Jonah Lau for more information.
 
-Game Studio Members:
+Game Studio Contributors:
 Jonah Lau | Jamie Kim | Khoi Tang
 Joachim Bernardo | Brendan Liang | Gautham Korottumadom Satheesh | Kieran Curtis-Pham | William Zhou | Riley Pentony | Abyaz Shams | Kashyap Sreekumar

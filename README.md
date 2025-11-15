@@ -9,4 +9,4 @@ A term-long discussion and ideas phase was held before the game began developmen
 
 The game is a spiritual successor to MHS: The Game 2022 and MHS: The Game 2023.
 
-Contact Jonah Lau for more information.
+Contact Brendan Liang (Studio Head 2026) for more information.
